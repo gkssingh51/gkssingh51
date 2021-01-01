@@ -6,9 +6,8 @@ My name is Gaurav . I am currently a 2nd year CSE undergrad.
 
 
 <br>
-One of my favourite Project :-WeatherWala 
-https://gkssingh51.github.io/WeatherWala/ - It shows the current tempreature🌡️ of your locality by the help of GPS📍.
-<img align="center" src="https://img.shields.io/badge/website-UP-green" />
+One of my favourite Project :-WeatherWala - It shows the current tempreature🌡️ of your locality by the help of GPS📍.
+Website Link - https://gkssingh51.github.io/WeatherWala/ <img align="center" src="https://img.shields.io/badge/website-UP-green" />
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning ReactJs and NodeJS. 
